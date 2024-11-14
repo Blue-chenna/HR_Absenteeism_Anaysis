@@ -25,7 +25,12 @@ Some of the features of my dashboard includes:
 - **Absence Reasons Analysis**: Visualized the most common reasons for absenteeism and their frequency.
 
 # DASHBOARD PREVIEW
+
+## Absenteeism Analysis
 ![Absenteeism Analysis](https://github.com/ChidinmaMadukife/HR_Absenteeism_Anaysis/blob/main/Absenteeism%20Analysis.jpg)
+
+## Performance Analysis
+![Performance Analysis](https://github.com/ChidinmaMadukife/HR_Absenteeism_Anaysis/blob/main/Employee%20Performance%20Analysis.jpg)
 
 
 ## Conclusion
