@@ -24,7 +24,7 @@ Some of the features of my dashboard includes:
 - **Absenteeism and Workload Relationship**: A scatter plot showing the relationship between total absent days per employee and their average workload per day, illustrating trends that indicate employees with higher workloads may have higher absenteeism.
 - **Absence Reasons Analysis**: Visualized the most common reasons for absenteeism and their frequency.
 
-# DASHBOARD PREVIEW
+# Dashboard Preview
 
 ## Absenteeism Analysis
 ![Absenteeism Analysis](https://github.com/ChidinmaMadukife/HR_Absenteeism_Anaysis/blob/main/Absenteeism%20Analysis.jpg)
