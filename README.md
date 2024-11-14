@@ -23,3 +23,9 @@ Some of the features of my dashboard includes:
 - **Performance Metrics**: A multi-row card displaying key data such as total absent days, average absent hours, average hit targets, total workload averages, and average service time.
 - **Absenteeism and Workload Relationship**: A scatter plot showing the relationship between total absent days per employee and their average workload per day, illustrating trends that indicate employees with higher workloads may have higher absenteeism.
 - **Absence Reasons Analysis**: Visualized the most common reasons for absenteeism and their frequency.
+
+# DASHBOARD PREVIEW
+#
+
+## Conclusion
+This project highlights my ability to clean, transform, and analyze HR data using Power BI, showcasing practical skills in data visualization and deriving actionable insights to inform company strategies.
